@@ -2,7 +2,6 @@
 Windows tool to automatically cut silent parts from videos. Built with Python.
 
 動画の無音部分を自動でカットするWindowsツールです。
-https://github.com/aiappkobo/SilenceCut/blob/main/SilenceCut.png
 
 ## 🎥 開発動画（YouTube）
 https://www.youtube.com/watch?v=wx--EvrOP3M
