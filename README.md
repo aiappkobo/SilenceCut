@@ -1,21 +1,18 @@
 # SilenceCut
-Windows tool to automatically cut silent parts from videos. Built with Python.
 
-動画の無音部分を自動でカットするWindowsツールです。
+動画の無音部分を自動で検出してカットするWindowsツールです。  
+動画編集の時短をしたい人向けに作りました。
+
 ![SilenceCut Screenshot](SilenceCut.png)
 
 ## 🎥 開発動画（YouTube）
 https://www.youtube.com/watch?v=wx--EvrOP3M
 
-## 🎁 ダウンロード(note)
+## 🎁 EXE版ダウンロードはこちら（note）
 https://note.com/ai_app_kobo/n/n76e913eeb3d3
 
-## ✨ 主な機能
-- 無音検出
-- 自動カット
-- GUI操作
-
-## 🛠 使用技術
-- Python
-- Tkinter
-- MoviePy
+## 🚀 使い方
+1. EXEを起動
+2. 動画ファイルを選択
+3. 無音設定を調整
+4. 開始ボタンを押す
