@@ -1,0 +1,17 @@
+# SilenceCut - 必要なライブラリ
+# インストール: pip install -r requirements.txt
+#
+# 動作確認済み環境:
+#   Python 3.9 〜 3.14 / Windows 10 / 11
+
+# 動画の読み込み・書き出し
+moviepy==2.2.1
+
+# 音声の無音区間検出
+pydub==0.25.1
+
+# ドラッグ＆ドロップ（EXE化後も有効）
+tkinterdnd2==0.4.2
+
+# EXE 化ツール
+pyinstaller==6.11.1
